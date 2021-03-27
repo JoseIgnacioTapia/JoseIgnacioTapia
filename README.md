@@ -1,6 +1,6 @@
 ### Hi World! 🤖
-* I'm JoeIT
-** Frontend Web Developer
+* I'm JoeIT *
+** Frontend Web Developer **
 
 <!--
 **JoseIgnacioTapia/JoseIgnacioTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

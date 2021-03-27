@@ -1,10 +1,10 @@
 ### Hi World! 🤖
-# I'm JoeIT 
+# I'm JoeIT                                                                                                                     ![JoeIT Logo](android-chrome-192x192.png)
 ## Frontend Web Developer 
 **Self-taught learning something new every day following the path of Frontend development.**
 #OpenToWork
 
-![GitHub Logo](android-chrome-192x192.png)
+
 Format: ![Alt Text](url)
 <!--
 **JoseIgnacioTapia/JoseIgnacioTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

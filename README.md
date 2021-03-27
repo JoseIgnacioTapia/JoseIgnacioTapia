@@ -3,7 +3,7 @@
 ## Frontend Web Developer 
 
 **Self-taught learning something new every day following the path of Frontend development.**
-#OpenToWork
+#OpenToWork 🚀
 
 
 

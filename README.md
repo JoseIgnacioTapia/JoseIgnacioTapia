@@ -1,5 +1,6 @@
 ### Hi World! 🤖
-# I'm JoeIT        ![JoeIT Logo](android-chrome-192x192.png)
+![JoeIT Logo](android-chrome-192x192.png)
+# I'm JoeIT        
 ## Frontend Web Developer 
 
 **Self-taught learning something new every day following the path of Frontend development.**

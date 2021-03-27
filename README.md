@@ -4,6 +4,8 @@
 **Self-taught learning something new every day following the path of Frontend development.**
 #OpenToWork
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 <!--
 **JoseIgnacioTapia/JoseIgnacioTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

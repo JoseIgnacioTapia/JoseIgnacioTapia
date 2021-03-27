@@ -1,6 +1,8 @@
 ### Hi World! 🤖
 # I'm JoeIT 
 ## Frontend Web Developer 
+**Self-taught learning something new every day following the path of Frontend development.**
+#OpenToWork
 
 <!--
 **JoseIgnacioTapia/JoseIgnacioTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

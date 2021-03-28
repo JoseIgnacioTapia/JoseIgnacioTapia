@@ -6,7 +6,7 @@
 **Self-taught learning something new every day following the path of Frontend development.**
 #OpenToWork 🚀
 
-
+![html](html.png) ![css](css.png) ![javascript](javascript.png) ![react](react.png) ![sass](sass.png) ![bootstrap](bootstrap.png)
 
 <!--
 **JoseIgnacioTapia/JoseIgnacioTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

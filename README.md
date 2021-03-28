@@ -9,7 +9,7 @@
 ![html](html.png) ![css](css.png) ![javascript](javascript.png) ![react](react.png) ![sass](sass.png) ![bootstrap](bootstrap.png)
 
 
-* [Email](josignaciot@gmail.com)
+* [Email](https://www.josignaciot@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/jose-ignacio-tapia/)
 
 

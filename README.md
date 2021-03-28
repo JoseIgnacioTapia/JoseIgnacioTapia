@@ -8,6 +8,11 @@
 
 ![html](html.png) ![css](css.png) ![javascript](javascript.png) ![react](react.png) ![sass](sass.png) ![bootstrap](bootstrap.png)
 
+
+* ![Email](josignaciot@gmail.com)
+* ![LinkedIn](https://www.linkedin.com/in/jose-ignacio-tapia/)
+
+
 <!--
 **JoseIgnacioTapia/JoseIgnacioTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

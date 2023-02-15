@@ -14,7 +14,6 @@ If you are looking for a frontend oriented Fullstack web developer, who is const
 #OpenToWork 🚀
 
 * [Email](https://www.josignaciot@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/jose-ignacio-tapia/)
 * [Portfolio](https://joseignaciotapia.github.io/)
 
 

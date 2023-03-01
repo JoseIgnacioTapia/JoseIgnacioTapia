@@ -15,7 +15,7 @@ If you are looking for a frontend oriented Fullstack web developer, who is const
 
 * [Email](https://www.josignaciot@gmail.com)
 * [Portfolio](https://joseignaciotapia.github.io/)
-* [Calendly] (https://calendly.com/josignaciot)
+* [Calendly](https://calendly.com/josignaciot)
 </font>
 
 ## My Skill Set  

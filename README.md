@@ -52,8 +52,3 @@ If you are looking for a frontend oriented Fullstack web developer, who is const
   
 
 <br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joseIgnacioTapia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
